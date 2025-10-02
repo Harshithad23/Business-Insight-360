@@ -49,4 +49,4 @@ In this project, data was loaded into Power BI from MySQL, then cleaned and tran
 1. Explore the live dashboard: Click on the [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjczNGQxZTAtN2YyYy00M2QxLWE1Y2QtMGIzYjIwMWY1NmMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) to interact with the Business Insights 360 Dashboard and analyze business performance and trends.
 
 ## Contact
-For inquiries, email [saurabhtripathiworks@gmail.com](mailto:saurabhtripathiworks@gmail.com).
+For inquiries, email [harshithadodda06@gmail.com]
