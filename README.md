@@ -1,7 +1,13 @@
 # Business Insights 360 Dashboard - Using Power BI
 
 ## Overview
-This Power BI project delivers interactive dashboards for end-to-end business analysis, covering key metrics like Net Sales, Gross Margin, and Profit & Loss. It provides insights into weekly performance trends, product profitability, and market analysis. The dashboard spans across sales, marketing, finance, and supply chain operations, offering a holistic view to support data-driven decision-making across customers, products, and regions.
+This Power BI project delivers a suite of interactive dashboards designed for comprehensive business performance monitoring and analysis. It integrates data across multiple business domains to provide a single source of truth for decision-making.
+
+The dashboards track key financial and operational metrics such as Net Sales, Gross Margin, Profit & Loss statements, and budget variances, offering executives and managers real-time visibility into the organization’s performance. Users can drill down into weekly trends, evaluate product-level profitability, and conduct market and regional performance analysis to identify growth opportunities and potential risks.
+
+Beyond finance, the dashboards span across sales, marketing, supply chain, and operations, giving stakeholders a holistic view of customer behavior, product performance, and regional demand patterns. For instance, sales and marketing teams can measure campaign effectiveness, finance teams can monitor profitability drivers, and supply chain teams can track cost efficiency, demand fulfillment, and inventory health.
+
+By combining intuitive visualizations with drill-through and filtering capabilities, this project empowers stakeholders to move from high-level overviews to granular, actionable insights. Ultimately, it equips leadership with the ability to make faster, data-driven decisions, align strategies across departments, and enhance organizational agility.
 
 ## ETL Process
 To understand the entire process of Extract, Transform, Load (ETL) used in this project, including data preparation, cleaning, and transformation techniques, please refer to the [ETL Process Notes](https://github.com/saurabhtripathiworks/Business-Insights-360/blob/main/ETL%20Process.txt).
