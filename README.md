@@ -26,9 +26,9 @@ You can view the live Power BI dashboard here:
 - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjczNGQxZTAtN2YyYy00M2QxLWE1Y2QtMGIzYjIwMWY1NmMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## About this Dataset
-The dataset includes various data files covering sales, products, customers, regions, and more. Key columns provide insights into Net Sales, Gross Margin, COGS, Forecast Accuracy, and Profit & Loss metrics.
+The dataset included files on sales, products, customers, and regions, with key columns such as Net Sales, Gross Margin, COGS, Forecast Accuracy, and P&L metrics. Data was imported from MySQL into Power BI, then cleaned, shaped, and standardized in Power Query.
 
-In this project, data was loaded into Power BI from MySQL, then cleaned and transformed using Power Query. Relationships were established across different tables to allow comprehensive analysis. A table for Key Measures was created to track crucial business metrics and offer actionable insights.
+To enable cross-functional analysis, relationships were defined between fact and dimension tables. A centralized Key Measures table was developed to track core KPIs, simplifying calculations and ensuring consistency across reports. This approach provided a scalable, integrated model for in-depth business analysis.
 
 ## Tools Used
 - MySQL: Data import and connection.
