@@ -30,11 +30,7 @@ The dataset included files on sales, products, customers, and regions, with key 
 
 To enable cross-functional analysis, relationships were defined between fact and dimension tables. A centralized Key Measures table was developed to track core KPIs, simplifying calculations and ensuring consistency across reports. This approach provided a scalable, integrated model for in-depth business analysis.
 
-## Tools Used
-- MySQL: Data import and connection.
-- Power Query: Data cleaning and transformation.
-- DAX (Data Analysis Expressions): Calculations and data modeling.
-- Power BI: Dashboard development and visualization.
+
 
 ## Insights
 - Overall Metrics:
